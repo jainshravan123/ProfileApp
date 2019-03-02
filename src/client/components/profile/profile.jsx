@@ -5,7 +5,7 @@ class Profile extends Component {
     return (
       <div style={{textAlign: 'center'}}>
         <div>
-          This is the profile page.
+          This is the profile page. My name is Shravan Jain.
         </div>
       </div>
     )
